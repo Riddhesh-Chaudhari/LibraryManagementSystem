@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System (Console Based)
 
 Console-based Library Management System built using Java and Eclipse.
 
